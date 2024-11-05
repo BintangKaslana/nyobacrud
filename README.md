@@ -1,2 +1,4 @@
 # nyobacrud
-Nyoba crud pake php buat buku
+Nyoba crud objeknya buku
+pake php
+masih simpel
